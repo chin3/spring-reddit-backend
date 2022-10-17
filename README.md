@@ -2,7 +2,7 @@
 <br>
 
 <h2>Background</h2>
-<p>This project is from a tutorial I followed when I needed to catch up with spring. I used this project to refresh my concepts in springboot and strengthen my foundation on making full stack web applications. Currently the backend is almost complete as I just need to implement a logout and use refresh tokens. The front-end is currently still in progress. The current backend functionality is:</p>
+<p>This project is from a tutorial I followed when I needed to catch up with spring. I used this project to refresh my concepts in springboot and strengthen my foundation on making full stack web applications. Currently the backend is almost complete as I just need to implement a logout and use refresh tokens. The front-end is currently still in progress.</p>
 <h2>Already Completed</h2>
 <ul>
 <li>User Registration</li>
